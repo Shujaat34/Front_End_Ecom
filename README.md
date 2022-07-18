@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # How to Use Bootstrap in Angular
 
-To Add Bootstrap `npm install bootstrap`. It will add the Bootstrap Package.
+To Add Bootstrap use `npm install bootstrap`. It will add the Bootstrap Package.
 Now Open the `angular.json` file of your project and include the `bootstrap.css` in the following Directory.
 `node_modules/bootstrap/dist/css/bootstrap.css` inside the projects->architect->build->styles array and do same for `bootstrap.js` as
 `node_modules/bootstrap/dist/js/bootstrap.js` in the projects->architect->build->scripts array.
